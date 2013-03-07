@@ -1,0 +1,10 @@
+I ran my program several times and got very different numbers,
+
+White frequency noise of 0.01 rad/sec
+Tcoh = 38.11 sec
+
+White frequency rate noise of 0.0001 rad/sec^2
+Tcoh = 1.79 sec
+
+White phase noise of 0.8 rad
+Tcoh = N/A 		% I was unable to run through this one, it kept freezing my computer
